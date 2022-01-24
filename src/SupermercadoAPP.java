@@ -132,11 +132,6 @@ public class SupermercadoAPP {
 		funcionPrograma(stock);
 	}
 
-//	public static void seleccionaLista() {
-//		
-//		String  = JOptionPane.showInputDialog("Quieres mostrar uno o todos los productos?");
-//	}
-//	
 	public static void funcionPrograma(Hashtable<String, Double> stock) {
 
 		int seleccion;
